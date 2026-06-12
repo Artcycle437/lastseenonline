@@ -6,35 +6,35 @@ The German translation (I hope it works)
   "TITLE_TEXT": "last seen online",
   "INTRO_TEXT_1": "Du findest einen alten Computer bei einem Flohmarkt.",
   "INTRO_TEXT_2": "Du entscheidest dich dazu ihn anzuschalten.",
-  "CONTINUE_BUTTON": "continue",
-  "PASSWORD_TEXT": "Password:",
-  "PASSWORD_HINT": "Hint: little furry boy's name and my birth year",
+  "CONTINUE_BUTTON": "Fortfahren",
+  "PASSWORD_TEXT": "Passwort:",
+  "PASSWORD_HINT": "HInweis: Der Name des Wohlknäules und mein Geburtsjahr.",
   // Optional:
   "LOGGING_IN": "logging in...",
   // Optional:
-  "WELCOME_BACK": "welcome back...",
-  "DESKTOP_SHORTCUT_BUDDYLIST": "Buddy List",
+  "WELCOME_BACK": "Willkommen zurück...",
+  "DESKTOP_SHORTCUT_BUDDYLIST": "Freundesliste",
   // Don't change LoseAmp Player name.
   // Kept here for consistency.
   "DESKTOP_SHORTCUT_LOSEAMP_PLAYER": "LoseAmp Player",
   "DESKTOP_SHORTCUT_OTHER_WORLD": "Other World",
   "DESKTOP_SHORTCUT_ZIP": "photos4em.zip",
   "UNZIPPER_TITLE": "UnZipper - photos4em.zip",
-  "UNZIPPER_TEXT": "This ZIP file is password-protected with a 4 digit code.",
-  "UNZIPPER_UNLOCK_BUTTON": "Unlock",
-  "UNZIPPER_INCORRECT_PASSWORD": "Incorrect password. Try again.",
+  "UNZIPPER_TEXT": "Dieese ZIP file ist mit einem 4 stelligen Code passwort-gesichert.",
+  "UNZIPPER_UNLOCK_BUTTON": "Entsperrt",
+  "UNZIPPER_INCORRECT_PASSWORD": "Falsches Passwort. Versuchen sie es noch einmal.",
   // Optional:
-  "BUDDYLIST_SIGN_ON": "Sign On",
+  "BUDDYLIST_SIGN_ON": "Anmelden",
   // Optional:
-  "BUDDYLIST_SIGN_ON_STEP_1": "1. Using saved password...",
+  "BUDDYLIST_SIGN_ON_STEP_1": "!. Benutze das gesicherte Passwort...",
   // Optional:
-  "BUDDYLIST_SIGN_ON_STEP_2": "2. Connecting...",
+  "BUDDYLIST_SIGN_ON_STEP_2": "2. Verbinden...",
   // Optional:
-  "BUDDYLIST_SIGN_ON_STEP_3": "3. Starting services...",
+  "BUDDYLIST_SIGN_ON_STEP_3": "3. Starten Dienstleistungen...",
   // Optional:
-  "BUDDYLIST_SIGN_ON_STEP_4": "4. Connected.",
+  "BUDDYLIST_SIGN_ON_STEP_4": "4. Verbunden.",
   "BUDDYLIST_CHAT_WINDOW_TITLE": "{0} - Chat",
-  "USER_IS_OFFLINE": "this user is offline, wait until they get back on.",
+  "USER_IS_OFFLINE": "Dieser BEnuutzer ist offline, warte bis sie zurück kommen.",
   // <LIZ> colors the line of chat blue.
   // <SYSTEM> colors the line of chat gray.
   // <...ANYTHING ElSE> colors the line of chat red.
