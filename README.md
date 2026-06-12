@@ -1,14 +1,11 @@
 # lastseenonline
 The German translation (I hope it works)
-"NAME": "English",
+"NAME": "Deutsch",
   "FONT_FAMILY": "PixelArial11, MadouFutoMaruGothic, PixeloidSans",
   "TITLE_SPACING": 1.0,
   "TITLE_TEXT": "last seen online",
-  // INTRO_TEXT_1 and INTRO_TEXT_2 ideally should have the same
-  // letters as TITLE_TEXT but it's okay if not.
-  // I will program in a way for it to work without.
-  "INTRO_TEXT_1": "you find an old computer at a garage sale.",
-  "INTRO_TEXT_2": "so you decide to turn it on.",
+  "INTRO_TEXT_1": "Du findest einen alten Computer bei einem Flohmarkt.",
+  "INTRO_TEXT_2": "Du entscheidest dich dazu ihn anzuschalten.",
   "CONTINUE_BUTTON": "continue",
   "PASSWORD_TEXT": "Password:",
   "PASSWORD_HINT": "Hint: little furry boy's name and my birth year",
