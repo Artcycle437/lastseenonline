@@ -34,7 +34,7 @@ The German translation (I hope it works)
   // Optional:
   "BUDDYLIST_SIGN_ON_STEP_4": "4. Verbunden.",
   "BUDDYLIST_CHAT_WINDOW_TITLE": "{0} - Chat",
-  "USER_IS_OFFLINE": "Dieser BEnuutzer ist offline, warte bis sie zurück kommen.",
+  "USER_IS_OFFLINE": "Dieser Benutzer ist offline, warte bis sie zurück kommen.",
   // <LIZ> colors the line of chat blue.
   // <SYSTEM> colors the line of chat gray.
   // <...ANYTHING ElSE> colors the line of chat red.
