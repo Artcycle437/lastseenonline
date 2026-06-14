@@ -124,7 +124,7 @@ The German translation (I hope it works)
     "<LIZ>: Ich habe es geschafft, Ich habe einen Weg gefunden hier für immmer rauszukommen!!",
     "<EMMBER>: lol wo gehst du hin? Paris?",
     "<LIZ>: Ich habe dir Fotos gesendet, hast du die?",
-    "<LIZ>: we performed these steps yesterday for orion.. soon i will be free.",
+    "<LIZ>: Wir haben diese Schritte gestern für orion durchgeführt.. bald werde ich frei sein.",
     "<EMMBER>: yeah the ZIP file? but it's got a 4-digit passcode.",
     "<LIZ>: -_- its 4 of my songs on my LoseAmp playlist!!",
     "<EMMBER>: oh... i don't get it.. you have 8 songs.",
