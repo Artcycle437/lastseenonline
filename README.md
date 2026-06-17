@@ -200,31 +200,31 @@ The German translation (I hope it works)
   "VISUAL_NOVEL_WE_RESPECTED_THE_FOUR_FALLEN": "Wir respektierten die vier Gefallenen",
   "VISUAL_NOVEL_WE_SUNG_AWAY_OUR_AGE": "Wir sangen unser Alter weg",
   "VISUAL_NOVEL_HOLD_ON_MY_MEMORY_IS_JUST_FUZZY": "Warte... Meine Erinnerung ist verschwommen...",
-  "VISUAL_NOVEL_SURE_TAKE_YOUR_TIME_YOU_CAN_PROBABLY_FIND_SOMETHING_ON_YOUR_COMPUTER_TO_HELP_YOU_REFRESH_YOUR_MEMORY": "Sicher. Nimm dir Zeit~ DU kannst warscheinlich DInge auf deinem Computer finden die deiner Errinerung auf die Sprünge helfen",
+  "VISUAL_NOVEL_SURE_TAKE_YOUR_TIME_YOU_CAN_PROBABLY_FIND_SOMETHING_ON_YOUR_COMPUTER_TO_HELP_YOU_REFRESH_YOUR_MEMORY": "Sicher. Nimm dir Zeit~ DU kannst warscheinlich Dinge auf deinem Computer finden die deiner Errinerung auf die Sprünge helfen",
   "VISUAL_NOVEL_THANKS_ILL_TRY_AGAIN": "Danke... Ich versuche es nocheinmal",
-  "VISUAL_NOVEL_I_DONT_THINK_THATS_IT": "i don't think that's it...",
-  "VISUAL_NOVEL_HMM_OKAY_I_BELIEVE_U_FOR_NOW_YOU_NEED_TO_REGISTER_A_NEW_ACCOUNT_THE_INVITE_CODE_IS_NEVERLAND": "hmm... okay i believe u. for now. you need to register a new account, the invite code is {0}",
-  "VISUAL_NOVEL_HMM_HEY_LIZ_IMMA_BRB": "hmm... hey liz.. imma brb hahaHAHA... cya",
+  "VISUAL_NOVEL_I_DONT_THINK_THATS_IT": "Ich denke nicht das es das ist.",
+  "VISUAL_NOVEL_HMM_OKAY_I_BELIEVE_U_FOR_NOW_YOU_NEED_TO_REGISTER_A_NEW_ACCOUNT_THE_INVITE_CODE_IS_NEVERLAND": "hmm... okay ich glaube dir. Erstmals. Du musst einen neuen Account erstellen. Der Einladungscode ist {0}",
+  "VISUAL_NOVEL_HMM_HEY_LIZ_IMMA_BRB": "hmm... hey liz.. Bin gleic wieder da hahaHAHA... cya",
   "LYRICS_1": [
     {
       "start": "0:00:46",
-      "lyric": "a babbling river"
+      "lyric": "Ein fließender Fluss"
     },
     {
       "start": "0:03:07",
-      "lyric": "a pond that glows"
+      "lyric": "ein Teich der glüht"
     },
     {
       "start": "0:05:11",
-      "lyric": "a hot spring over-overflows"
+      "lyric": "Eine heiße Quelle über-überfießt"
     },
     {
       "start": "0:10:28",
-      "lyric": "all three things oh, oh I know"
+      "lyric": "alle drei dinge oh, oh ich weiß"
     },
     {
       "start": "0:13:90",
-      "lyric": "I know..."
+      "lyric": "Icg weiß..."
     }
   ],
   "LYRICS_2": [
