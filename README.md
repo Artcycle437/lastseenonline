@@ -224,47 +224,47 @@ The German translation (I hope it works)
     },
     {
       "start": "0:13:90",
-      "lyric": "Icg weiß..."
+      "lyric": "Ich weiß..."
     }
   ],
   "LYRICS_2": [
     {
       "start": "0:00:40",
-      "lyric": "two hands holding on to the same"
+      "lyric": "zwei Hände halten die gleiche"
     },
     {
       "start": "0:05:57",
-      "lyric": "old story, written poorly"
+      "lyric": "alte story, schlecht geschrieben"
     },
     {
       "start": "0:09:92",
-      "lyric": "can we -"
+      "lyric": "können wir-"
     },
     {
       "start": "0:11:40",
-      "lyric": "take control?"
+      "lyric": "kontrolle übernehmen?"
     },
     {
       "start": "0:13:01",
-      "lyric": "I wanna leave this all behind"
+      "lyric": "Ich möcht das alles zurück lassen"
     }
   ],
   "LYRICS_3": [
     {
       "start": "0:00:61",
-      "lyric": "wake at seven A.M."
+      "lyric": "wache auf um sieben"
     },
     {
       "start": "0:03:96",
-      "lyric": "it's like heaven again"
+      "lyric": "es ist wieder wie der Himmel"
     },
     {
       "start": "0:07:48",
-      "lyric": "see you smiling my friend"
+      "lyric": "sehe dich lächeln mein Freund"
     },
     {
       "start": "0:10:86",
-      "lyric": "and I don't want this to end"
+      "lyric": "und ich möchte nicht das es endet"
     },
     {
       "start": "0:13:92",
