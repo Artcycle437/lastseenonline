@@ -256,7 +256,7 @@ The German translation (I hope it works)
     },
     {
       "start": "0:03:96",
-      "lyric": "es ist wieder wie der Himmel"
+      "lyric": "es ist wieder wie im Himmel"
     },
     {
       "start": "0:07:48",
@@ -268,19 +268,19 @@ The German translation (I hope it works)
     },
     {
       "start": "0:13:92",
-      "lyric": "the present moment will fleet"
+      "lyric": "der moment wird verflüchten"
     },
     {
       "start": "0:17:38",
-      "lyric": "crowded city and streets"
+      "lyric": "volle Städte und Straßen"
     },
     {
       "start": "0:21:13",
-      "lyric": "everybody you meet"
+      "lyric": "jeder den du triftst"
     },
     {
       "start": "0:24:23",
-      "lyric": "will go away someday"
+      "lyric": "wird eines Tages gehen"
     }
   ],
   "LYRICS_4": [
@@ -290,63 +290,63 @@ The German translation (I hope it works)
     },
     {
       "start": "0:05:21",
-      "lyric": "am I a snack that you eight?"
+      "lyric": "bin ich der snack den du acht?"
     },
     {
       "start": "0:09:61",
-      "lyric": "am I a thing that you lost?"
+      "lyric": "Bin ich das verlohrene Ding??"
     },
     {
       "start": "0:14:69",
-      "lyric": "lost long ago"
+      "lyric": "verlohren vor langer Zeit"
     }
   ],
   "LYRICS_5": [
     {
       "start": "0:00:71",
-      "lyric": "I don't want to be buried"
+      "lyric": "Ich möcht icht begraben werden"
     },
     {
       "start": "0:04:67",
-      "lyric": "six feet under the ground"
+      "lyric": "sechs meter im Untergrund"
     },
     {
       "start": "0:08:61",
-      "lyric": "if you are not around"
+      "lyric": "wenn du nicht dabei bist"
     },
     {
       "start": "0:12:40",
-      "lyric": "don't want to be alone"
+      "lyric": "möchte ich nicht alleine sein"
     },
     {
       "start": "0:15:75",
-      "lyric": "I don't want to leave this world"
+      "lyric": "ich möchte diese Welt nicht verlassen"
     },
     {
       "start": "0:20:07",
-      "lyric": "if you're not by my side"
+      "lyric": "wenn du nicht an meiner Seite bist"
     },
     {
       "start": "0:23:34",
-      "lyric": "no, I don't want to die"
+      "lyric": "nein, ich möchte nicht sterben"
     },
     {
       "start": "0:26:80",
-      "lyric": "without you"
+      "lyric": "ohne dich"
     }
   ],
   "LYRICS_6": [
     {
       "start": "0:01:10",
-      "lyric": "*guitar noodling*"
+      "lyric": "*Gitarren-Gedudel*"
     },
     {
       "start": "0:03:73",
-      "lyric": "oh shit uhm..."
+      "lyric": "oh scheiße uhm.."
     },
     {
       "start": "0:06:00",
-      "lyric": "*GUITAR STRUM*"
+      "lyric": "*GITARRENANSCHLAG*"
     },
     {
       "start": "0:07:52",
@@ -354,35 +354,35 @@ The German translation (I hope it works)
     },
     {
       "start": "0:08:63",
-      "lyric": "just one chance,"
+      "lyric": "bloß eine Chance,"
     },
     {
       "start": "0:11:82",
-      "lyric": "and one dance"
+      "lyric": "und ein Tanz"
     },
     {
       "start": "0:14:88",
-      "lyric": "feels like awkward"
+      "lyric": "gefühlt unangenehm"
     },
     {
       "start": "0:17:36",
-      "lyric": "teenage romance"
+      "lyric": "teeny romance"
     },
     {
       "start": "0:19:98",
-      "lyric": "*music stops* it kinda sounds like"
+      "lyric": "*musik stoppt* klingt aber wie"
     },
     {
       "start": "0:20:96",
-      "lyric": "the end though"
+      "lyric": "das Ende"
     },
     {
       "start": "0:22:55",
-      "lyric": "maybe i should write"
+      "lyric": "Vielleicht sollte ich"
     },
     {
       "start": "0:23:21",
-      "lyric": "the beginning"
+      "lyric": "den Anfang schreiben"
     }
   ],
   "LYRICS_7": [
